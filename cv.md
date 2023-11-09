@@ -4,7 +4,7 @@
 * **Phone:** +375445658980
 * **E-mail:** chijonok.julia17@gmail.com
 * **GitHub:** [julia17chijonok](https://github.com/julia17chijonok)
-* **LinkedIn:** (www.linkedin.com/in/yuliya-chyzhonak-94331829a)
+* **LinkedIn:** [www.linkedin.com/in/yuliya-chyzhonak-94331829a](www.linkedin.com/in/yuliya-chyzhonak-94331829a)
 
 ## About Me:
 At the moment I work as a pharmacist. But I would like to become a programmer. I like the Front-end so I decided to learn HTML, CSS and JavaScript. I have already completed the «JavaScript/Front-end. Stage 0» course and now I continue my studies. I have good self-discipline skills and high motivation, so I am confident that I will achieve my goal.
