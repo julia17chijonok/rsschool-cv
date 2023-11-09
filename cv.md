@@ -32,3 +32,12 @@ function findAverage(array) {
     }
 }
 ```
+
+## Education
+* RS School Stage#0
+* Mogilev State Medical College
+
+## Languages
+* **Russian** - native speaker
+* **Belorussian** - native speaker
+* **English** - B1
